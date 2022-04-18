@@ -1,0 +1,6 @@
+C:\Users\Stepha\Documents\EAN 11\Basedatos\Corte3\reto2\reto2\Capaentidad\bin\Debug\Capaentidad.dll
+C:\Users\Stepha\Documents\EAN 11\Basedatos\Corte3\reto2\reto2\Capaentidad\bin\Debug\Capaentidad.pdb
+C:\Users\Stepha\Documents\EAN 11\Basedatos\Corte3\reto2\reto2\Capaentidad\obj\Debug\Capaentidad.csproj.AssemblyReference.cache
+C:\Users\Stepha\Documents\EAN 11\Basedatos\Corte3\reto2\reto2\Capaentidad\obj\Debug\Capaentidad.csproj.CoreCompileInputs.cache
+C:\Users\Stepha\Documents\EAN 11\Basedatos\Corte3\reto2\reto2\Capaentidad\obj\Debug\Capaentidad.dll
+C:\Users\Stepha\Documents\EAN 11\Basedatos\Corte3\reto2\reto2\Capaentidad\obj\Debug\Capaentidad.pdb
